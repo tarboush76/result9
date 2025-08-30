@@ -1,0 +1,6 @@
+
+<LinearLayout ... orientation="vertical" padding="16dp">
+    <EditText android:id="@+id/etQuery" android:hint="أدخل رقم الجلوس أو الاسم" ... />
+    <Button android:id="@+id/btnSearch" android:text="بحث" ... />
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/recycler" ... />
+</LinearLayout>
