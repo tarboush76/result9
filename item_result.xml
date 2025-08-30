@@ -1,0 +1,5 @@
+<LinearLayout ... orientation="vertical" padding="12dp">
+    <TextView android:id="@+id/tvName" textStyle="bold" textSize="18sp" />
+    <TextView android:id="@+id/tvNumber" />
+    <TextView android:id="@+id/tvFields" />
+</LinearLayout>
